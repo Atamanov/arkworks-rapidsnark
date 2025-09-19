@@ -1,0 +1,42 @@
+# Rust build artifacts
+/target/
+**/*.rs.bk
+*.pdb
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Powers of Tau files (can be regenerated or downloaded)
+*.ptau
+powersOfTau*.ptau
+pot*.ptau
+
+# Generated outputs directory
+/outputs/
+
+# Temporary files
+*.tmp
+/tmp/
+
+# Node modules
+node_modules/
+
+# Test directories that aren't needed
+/test_js/
+
+# Backup files
+*.bak
+*.backup
+
+# macOS files
+.DS_Store
+
+# Editor temporary files
+*.swp
+*.swo
+*~

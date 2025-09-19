@@ -1,0 +1,18 @@
+[package]
+name = "arkworks-rapidsnark"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ark-bn254 = "0.5"
+ark-ff = "0.5"
+ark-relations = "0.5"
+ark-std = "0.5"
+ark-r1cs-std = "0.5"
+
+# Circom file formats
+r1cs-file = "0.3"
+wtns-file = "0.1"
+
+# Utilities
+anyhow = "1.0"
