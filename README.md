@@ -178,4 +178,6 @@ Check that:
 
 ---
 
-Buy me a coffee (ERC20): 0x5B6580881E6F7888B4648402b29582Cd2C73BF7f
+# Buy me a coffee 
+Its important - i run on it
+(ERC20): atamanov.eth
